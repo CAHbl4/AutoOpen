@@ -3,7 +3,6 @@ Name: AutoOpen
 Repository
 
 Ignore:
-src
 .gitignore
 .gitattributes
 chestWhitelist.txt
